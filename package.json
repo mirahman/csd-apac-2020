@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "@cucumber/cucumber": "^7.0.0-rc.0"
+        "@cucumber/cucumber": "^7.0.0-rc.0",
+        "chai": "^4.2.0"
     }
 }
