@@ -1,0 +1,14 @@
+{
+    "name": "unit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nyc mocha"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@cucumber/cucumber": "^7.0.0-rc.0"
+    }
+}
